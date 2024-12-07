@@ -1,0 +1,17 @@
+@article{BSN-ESC,   title={BSN-ESC: A Big–Small Network-Based Environmental Sound Classification Method for AIoT Applications},  author={Velichko, Andrei and Korzun, Dmitry and Meigal, Alexander and Peng, Lujie and Yang, Junyu and Yan, Longke and Chen, Zhiyi and Xiao, Jianbiao and Zhou, Liang and Zhou, Jun},  language={en-US}  }
+
+@article{Randomly weighted CNNs ,   title={Randomly weighted CNNs for (music) audio classification},  journal={arXiv: Sound,arXiv: Sound},  author={Pons, Jordi and Serra, Xavier},  year={2018},  month={May},  language={en-US}  },   title={Randomly weighted CNNs for (music) audio classification},  journal={arXiv: Sound,arXiv: Sound},  author={Pons, Jordi and Serra, Xavier},  year={2018},  month={May},  language={en-US}  }
+
+@inproceedings{Environmental sound classification,   title={Environmental sound classification with convolutional neural networks},  url={http://dx.doi.org/10.1109/mlsp.2015.7324337},  DOI={10.1109/mlsp.2015.7324337},  booktitle={2015 IEEE 25th International Workshop on Machine Learning for Signal Processing (MLSP)},  author={Piczak, Karol J.},  year={2015},  month={Sep},  language={en-US}  }
+
+@article{SoundNet,   title={SoundNet: Learning Sound Representations from Unlabeled Video},  journal={Neural Information Processing Systems,Neural Information Processing Systems},  author={Aytar, Yusuf and Vondrick, Carl and Torralba, Antonio},  year={2016},  month={Jan},  language={en-US}  }
+
+@inproceedings{Large scale audio classification,   title={CNN Architectures for Large-Scale Audio Classification},  url={http://dx.doi.org/10.1109/icassp.2017.7952132},  DOI={10.1109/icassp.2017.7952132},  booktitle={2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},  author={Hershey, Shawn and Chaudhuri, Sourish and Ellis, Daniel P. W. and Gemmeke, Jort F. and Jansen, Aren and Moore, R. Channing and Plakal, Manoj and Platt, Devin and Saurous, Rif A. and Seybold, Bryan and Slaney, Malcolm and Weiss, Ron J. and Wilson, Kevin},  year={2017},  month={Mar},  language={en-US}  }
+
+@article{ESResNet,   title={ESResNet: Environmental Sound Classification Based on Visual Domain Models},  journal={arXiv: Computer Vision and Pattern Recognition,arXiv: Computer Vision and Pattern Recognition},  author={Guzhov, Andrey and Raue, Federico and Hees, J.J.van and Dengel, Andreas},  year={2020},  month={Apr},  language={en-US}  }
+
+@article{PANNs,   title={PANNs: Large-Scale Pretrained Audio Neural Networks for Audio Pattern Recognition},  url={http://dx.doi.org/10.1109/taslp.2020.3030497},  DOI={10.1109/taslp.2020.3030497},  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},  author={Kong, Qiuqiang and Cao, Yin and Iqbal, Turab and Wang, Yuxuan and Wang, Wenwu and Plumbley, Mark D.},  year={2020},  month={Jan},  pages={2880–2894},  language={en-US}  }
+
+@article{Environmental Sound Classification 1-D and 2-D,   title={Environmental Sound Classification using 1-D and 2-D Convolutional Neural Networks},  author={Sherly, L and Annabel, Puspha and Praylin, Shirley},  language={en-US}  }
+
+@article{Convolutional and Data Augmentation for Environmental Sound Classification ,   title={Deep Convolutional Neural Networks and Data Augmentation for Environmental Sound Classification},  url={http://dx.doi.org/10.1109/lsp.2017.2657381},  DOI={10.1109/lsp.2017.2657381},  journal={IEEE Signal Processing Letters},  author={Salamon, Justin and Bello, Juan Pablo},  year={2017},  month={Mar},  pages={279–283},  language={en-US}  }
